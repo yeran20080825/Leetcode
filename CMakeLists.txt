@@ -3,5 +3,5 @@ project(leetcode)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES removeDuplicates.cpp)
-add_executable(leetcode ${SOURCE_FILES} removeDuplicates.cpp)
+set(SOURCE_FILES   removeElementTwo.cpp)
+add_executable(leetcode ${SOURCE_FILES}  )

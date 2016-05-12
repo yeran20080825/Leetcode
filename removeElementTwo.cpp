@@ -2,6 +2,9 @@
 // Created by Aran on 2016/05/12.
 //
 
+#include <iostream>
+#include <vector>
+using namespace std;
 class Solution {
 public:
     int removeElementTwo(vector<int>& nums, int val) {
@@ -20,11 +23,12 @@ public:
     }
 
 };
+
 int main() {
 
     vector<int> num ={1,2,2,2,3,3};
     Solution solution;
 
-    cout<<"the len of new array is "<<solution.removeElementTwo(num,6,2)<<endl;
+    cout<<"the len of new array is "<<solution.removeElementTwo(num,2)<<endl;
     return 0;
 }
