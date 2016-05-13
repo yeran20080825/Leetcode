@@ -1,5 +1,5 @@
 /*********************************
-*   日期：2014-01-22
+*   日期：2016-5-10
 *   作者：Aran
 *   题号: Plus One
 *   来源：http://oj.leetcode.com/problems/plus-one/
