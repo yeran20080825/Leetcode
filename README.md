@@ -15,7 +15,7 @@ Problem | Solution
 [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [My Submissions](https://github.com/yeran20080825/Leetcode/blob/master/removeElementTwo.cpp)
 [66. Plus One](https://leetcode.com/problems/plus-one/)|[My Submissions](https://github.com/yeran20080825/Leetcode/blob/master/plusOne.cpp)
 [88. Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/)|[]()
-[1.Two Sum ](https://leetcode.com/problems/two-sum/)|[My Submissions](https://github.com/yeran20080825/Leetcode/blob/master/twoSum.cpp)
+[01. Two Sum ](https://leetcode.com/problems/two-sum/)|[My Submissions](https://github.com/yeran20080825/Leetcode/blob/master/twoSum.cpp)
 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[My Submissions](https://github.com/yeran20080825/Leetcode/blob/master/triangle.cpp)
 [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[My Submissions](https://github.com/yeran20080825/Leetcode/blob/master/triangleTwo.cpp)
 
