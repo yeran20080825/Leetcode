@@ -3,7 +3,7 @@
 This is my daily coding in Leetcode website. Please contact me for any questions.  
 [Email:51151500143@stu.ecnu.edu.cn](51151500143@stu.ecnu.edu.cn)
 
-Thank you for [LeetCode 题解](https://www.gitbook.com/book/siddontang/leetcode-solution/details) reference written by [siddontang](https://www.gitbook.com/@siddontang).
+_Thank you for [LeetCode 题解](https://www.gitbook.com/book/siddontang/leetcode-solution/details) reference written by [siddontang](https://www.gitbook.com/@siddontang)._
 
 ---
 
